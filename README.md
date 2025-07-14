@@ -1,5 +1,5 @@
 ## Hi there, welcome to my page 👋👋👋
-- 🧑‍💻 I'm a passionate software engineer who loves working with AI and exploring new technologies.
+- 🧑‍💻 I have a dream of becoming a passionate software engineer who loves working with AI and exploring new technologies.
 - 🥅 Favorite Quote: “Not everyone can become a great artist, but a great artist can come from anywhere.”-Ratatouille (2007)
 
 ## 🛠️Tech Stack
@@ -10,8 +10,6 @@
 <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
 <img alt="Sklearn"  src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img alt="Pytorch"  src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img alt="Tensorflow"  src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
 ### Tools & Platforms
